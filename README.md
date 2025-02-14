@@ -7,7 +7,7 @@ My name is Leonardo and I'm a fullstack developer. Currently working with .NET b
 :guitar: Guitar player and singer for campolargo on my free time
 
 ## Skills :computer:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,vite,cs,dotnet,ts,mysql,linux,tailwind&perline=6)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,vite,cs,dotnet,ts,mysql,linux,tailwind&perline=6)
 
 
 ## Contact me :satellite:
